@@ -1,14 +1,14 @@
 As a self-motivated individual, I am looking out for challenges where I can make a difference. In the process, your job posting caught my eye, and I firmly believe that my professional skills and qualifications will enable me to make valuable contributions to your organization.
-Besides developing keen analytical skills through six years of experience in machine learning, my recent experience of Deep learning from various data sources such as text, image, motion, and audio has also aided in stimulating my thinking and broadening my perspectives on important issues.
+Besides developing keen analytical skills through 10 years of experience in machine learning, my recent experience of Deep learning from various data sources such as text, image, motion, and audio has also aided in stimulating my thinking and broadening my perspectives on important issues.
 
 Let me tell you about some of my qualifications here. Among other things, what makes me different from other applicants are:
 - I am dedicated and result-oriented, and adapt well to changes and time pressure in the workplace.
 - I have the ability to identify a trend or relationship among seemingly unrelated things.
 - I'm fluent at various languages such as C/C++, Java, and Python.
-- I have experience in deep-learning project using torch and also have good knowledge of state-of-art algorithm such as RCNN, LSTM, etc.
+- I have experience in deep-learning project using torch and also have good knowledge of state-of-art algorithm such as transformer, BERT, GTP, etc.
 - I have effective communication and interpersonal skills to interact positively with a wide range of people, and a good team player.
 - I have good communication skills (English and Korean); listening, writing, and reading.
 
-I would welcome the opportunity to discuss how my credentials and expertise can benefit your organization and address the unique challenges of this position. I am excited about the idea of working at Google, and look forward to demonstrating how my experience and skills uniquely qualifies me for this opportunity.
+I would welcome the opportunity to discuss how my credentials and expertise can benefit your organization and address the unique challenges of this position. I am excited about the idea of working at Dataforce, and look forward to demonstrating how my experience and skills uniquely qualifies me for this opportunity.
 
 Thank you.
